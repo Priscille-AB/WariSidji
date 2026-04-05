@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888216702451",
+    "project_id": "tontineplus-ddc81",
+    "storage_bucket": "tontineplus-ddc81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888216702451:android:6596d332b05ba0aa061686",
+        "android_client_info": {
+          "package_name": "com.example.tontineplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZitJTm47A2wpQSGOI13RP0qQ3pbh87xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
